@@ -158,14 +158,15 @@ p {
     }
 
     h1 {
-        font-size: 3rem;
-        margin: 3rem 0 1rem 0;       
+        font-size: 6vh;
+        margin: 6vh 0 2vh 0;       
     }
 
     p { 
         width: 87%;       
         margin-bottom: 7rem;
-        /* line-height: 1.8; */
+        height: 16vh;
+        font-size: 1.95vh;
     }
 
     .image {
@@ -182,6 +183,7 @@ p {
     .body-container {
         flex-direction: row;
         width: 80vw;
+        height: 60vh;
     }
 
     .container {
