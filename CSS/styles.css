@@ -172,7 +172,7 @@ p {
 
     p { 
         width: 87%;       
-        margin-bottom: 7rem;
+        margin-bottom: 16vh;
         height: 16vh;
         font-size: 1.95vh;
     }
@@ -182,6 +182,7 @@ p {
     }
 
     .button {
+        height: 7vh;
         font-size: 1.1rem;
         width: 11vw;
         position: relative;
