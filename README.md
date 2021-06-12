@@ -45,7 +45,8 @@ Users should be able to:
 
 **Third newbie challenge down and feeling much more confident in my HTML5 and CSS3 abilities. Designed this**
 **mobile-first and desktop second. Took some advice from a comment and tweeked my media query techniques and**
-**pretty happy with the finished product**
+**pretty happy with the finished product. Began to learn the difficult lesson of mixing rem, px, and vw/vh**
+**can be error prone**
 
 ### Built with
 
