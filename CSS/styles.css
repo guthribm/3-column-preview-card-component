@@ -140,6 +140,14 @@ p {
     text-decoration: none;
 }
 
+.mobile {
+    display: inline-block;
+}
+
+.desktop {
+    display: none;
+}
+
 
 /* =================================================================================== */
 
@@ -213,6 +221,14 @@ p {
 
     .foot-item a {
         margin-left: 1rem;
+    }
+
+    .mobile {
+        display: none;
+    }
+
+    .desktop {
+        display: inline-block;
     }
 
 }
